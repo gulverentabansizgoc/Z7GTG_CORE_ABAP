@@ -8,3 +8,5 @@
 REPORT Z7GTG_R_HELLO_WORLD.
 
 write:/'Hello world'.
+
+write : / 'Learning abap'.
